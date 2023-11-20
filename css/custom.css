@@ -1,0 +1,17 @@
+.bg-hero {
+	background: #FFF url('/images/landing_page_images/bg-hero.jpg') repeat top center;
+	background-size: cover;
+}
+
+.max-width-500 {
+	max-width: 500px;
+}
+
+.max-width-600 {
+	max-width: 600px;
+}
+
+.bg-faq {
+	background: #f1efe5 url('/images/landing_page_images/bg-faq.svg') no-repeat right center;
+	padding-top: 240px;
+}
